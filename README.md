@@ -6,7 +6,7 @@
 * Show the Drive
 
 ![alt text](Guru.jpg)
-## Monster
+## [Monster](monster.md)
 * Illustrate the Monsterness of Monster
 * Explain the Monster inside of You
 * Show the Monster
