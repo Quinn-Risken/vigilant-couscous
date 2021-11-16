@@ -9,7 +9,7 @@
 * Illustrate the Monsterness of Monster
 * Explain the Monster inside of You
 * Show the Monster
-![alt text](Monster.jpg)|
+![alt text](monster.jpg)|
 ## [RedBull](redbull.md)
 * Illustrate the power of RedBull
 * Explain the Drive
