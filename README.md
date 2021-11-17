@@ -1,6 +1,6 @@
 # Best Energy Drinks
 ---
-## [Guru](GURU.md)
+## [Guru](guru.md)
 * Illustrate the Beauty of Guru
 * Explain the Healthyness
 * Show the Drive
