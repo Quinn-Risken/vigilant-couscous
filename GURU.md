@@ -1,3 +1,7 @@
-Guru is a natural energy drink. The caffeine comes from 
+Guru is a natural energy drink. 100mg of caffeine from green tea, matcha, and guarana.
 
-![GURU](guru.jpeg)
+![GURU](GURU.jpeg)
+
+
+
+Better than other energy because their is no BS!
