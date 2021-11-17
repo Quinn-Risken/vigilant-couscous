@@ -1,3 +1,3 @@
 Guru is a natural
 
-![alt text](guru.jpg)
+![alt text](GURU.jpeg)
